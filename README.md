@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning ... Flutter, Sklear, Python(always), Entrepreneurship
+- 🌱 I’m currently learning ... Flutter, Sklearn, Python(always), Entrepreneurship
 
 <!--
 **DavidBrynnHouse/DavidBrynnHouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
