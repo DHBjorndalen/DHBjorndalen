@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning ... Flutter, Sklearn, Python(always), Entrepreneurship
-- 😄 Pronouns: ... (He, Him, His)
+- 🌱 I’m currently learning Flutter, Sklearn, Pytorch, Python(always), Entrepreneurship
+- 🔭 I’m currently working on reading and implementing deep learning NLP papers.
+- 📫 How to reach me: dabryhouse@gmail.com
+- 😄 Pronouns: (He, Him, His)
 
 <!--
 **DavidBrynnHouse/DavidBrynnHouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
