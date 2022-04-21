@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Flutter, Sklearn, Pytorch, Python(always), Entrepreneurship
-- 🔭 I’m currently working on reading and implementing deep learning NLP papers.
+- 🌱 I’m currently sharpening my python skills
+- 🔭 I’m currently working on making my own video games with pygame
 - 📫 How to reach me: dabryhouse@gmail.com
 - 😄 Pronouns: (He, Him, His)
 
