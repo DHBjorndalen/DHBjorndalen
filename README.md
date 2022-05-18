@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently sharpening my python skills
-- 🔭 I’m currently working on making my own video games with pygame
+- 🔭 I’m currently working on learning Deep Learning and NLP
 - 📫 How to reach me: dabryhouse@gmail.com
 - 😄 Pronouns: (He, Him, His)
 
