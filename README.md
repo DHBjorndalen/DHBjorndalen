@@ -2,8 +2,8 @@
 
 
 - 🌱 I’m currently sharpening my python skills
-- 🔭 I’m currently working on learning Deep Learning and NLP
-- 📫 How to reach me: dabryhouse@gmail.com
+- 🔭 I’m currently working on learning more about Machine Learning and Deep Learning
+- 📫 How to reach me: dahous1@umbc.edu
 - 😄 Pronouns: (He, Him, His)
 
 <!--
