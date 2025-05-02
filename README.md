@@ -24,7 +24,7 @@ I'm a web developer with a background in **psychology**, **information systems**
 ## 📫 Connect With Me
 
 - 📍 Based in Baltimore, MD  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/david-house-792b7961/](https://www.linkedin.com/in/david-bjorndalen-792b7961/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-bjorndalen-792b7961/)
 - 💻 [GitHub](https://github.com/davidbjorndalen)  
 - 📬 Email: [dahous1@umbc.edu](mailto:dahous1@umbc.edu)
 
