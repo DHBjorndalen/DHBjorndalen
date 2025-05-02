@@ -1,20 +1,34 @@
-### Hi there 👋
+# 👋 Hi, I'm David Bjorndalen
 
+I'm a Ph.D. student with a background in **psychology**, **information systems**, and **software development**, currently focused on **computational analysis** and **human-centered systems**. My work sits at the intersection of technology, data, and human well-being.
 
-- 🌱 I’m currently sharpening my python skills
-- 🔭 I’m currently working on learning more about Machine Learning and Deep Learning
-- 📫 How to reach me: dahous1@umbc.edu
-- 😄 Pronouns: (He, Him, His)
+🔬 My research interests include:
+- Human-centered computing & informatics
+- Data-driven experimental design
+- Multimodal data analysis
+- Visualization & decision support systems
 
-<!--
-**DavidBrynnHouse/DavidBrynnHouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I’m especially passionate about using data and design to improve real-world outcomes in areas like healthcare, education, and social systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I Use
+
+- **Languages**: Python, Java, JavaScript, Dart
+- **Frameworks/Tools**: Flutter, React, Node.js, Firebase, PostgreSQL
+- **Data**: SQL, Data Visualization, Statistics, Machine Learning
+- **Other**: Git, LaTeX, UX Design, Web Development
+
+---
+
+## 📫 Connect With Me
+
+- 📍 Based in Baltimore, MD  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/david-house-792b7961/](https://www.linkedin.com/in/david-bjorndalen-792b7961/))  
+- 💻 [GitHub](https://github.com/davidbjorndalen)  
+- 📬 Email: [dahous1@umbc.edu](mailto:dahous1@umbc.edu)
+
+---
+
+_Always exploring new ways to merge code, data, and human insight._
+
