@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Bjorndalen
 
-I'm a Ph.D. student with a background in **psychology**, **information systems**, and **software development**, currently focused on **computational analysis** and **human-centered systems**. My work sits at the intersection of technology, data, and human well-being.
+I'm a web developer with a background in **psychology**, **information systems**, and **software development**, currently focused on **computational analysis** and **human-centered systems**. My work sits at the intersection of technology, data, and human well-being.
 
 🔬 My research interests include:
 - Human-centered computing & informatics
