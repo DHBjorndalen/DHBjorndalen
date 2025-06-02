@@ -21,7 +21,7 @@ I’m especially passionate about using data and design to improve real-world ou
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - 📍 Based in Baltimore, MD  
 - 💼 [LinkedIn](https://www.linkedin.com/in/david-bjorndalen-792b7961/)
